@@ -8,19 +8,19 @@ A userscript for [claude.ai](https://claude.ai) that makes long conversations ea
 
 - **Pin key answers.** Pin the answers that matter and keep them open in a floating panel, so you can check back on them anytime — even while reading somewhere else in the conversation. Click a pin to jump straight to it.
 
-  <img src="docs/pin.gif" width="360" alt="Pinning an answer into the floating panel">
+  <img src="docs/pin.gif" width="640" alt="Pinning an answer into the floating panel">
 
 - **Mark and preview.** Mark any answer and it shows up on the side rail. Hover a mark to preview its summary, click to jump straight there.
 
-  <img src="docs/mark.gif" width="360" alt="Marking an answer and previewing it from the side rail">
+  <img src="docs/mark.gif" width="640" alt="Marking an answer and previewing it from the side rail">
 
 - **Saved prompts.** Keep phrases you type often beside the message box and insert them at the cursor with one click.
 
-  <img src="docs/prompts.gif" width="360" alt="Inserting a saved prompt beside the message box">
+  <img src="docs/prompts.gif" width="640" alt="Inserting a saved prompt beside the message box">
 
 - **Clear in one click.** Wipe every pin and mark off the page with a single button.
 
-  <img src="docs/clear.gif" width="360" alt="Clearing all pins and marks with one button">
+  <img src="docs/clear.gif" width="640" alt="Clearing all pins and marks with one button">
 
 - Light and dark themes that follow Claude.
 
