@@ -1,0 +1,19 @@
+// ==UserScript==
+// @name             Claude Navigator
+// @namespace        https://claude.ai/
+// @version          {{version}}
+// @description      {{description}}
+// @author           {{author}}
+// @license          {{license}}
+// @homepageURL      {{homepage}}
+// @supportURL       {{bugs}}
+// @updateURL        {{installUrl}}
+// @downloadURL      {{installUrl}}
+// @match            https://claude.ai/*
+// @icon             https://claude.ai/favicon.ico
+// @grant            GM_getValue
+// @grant            GM_setValue
+// @grant            GM_registerMenuCommand
+// @grant            GM_setClipboard
+// @run-at           document-idle
+// ==/UserScript==
